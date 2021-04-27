@@ -1,0 +1,1 @@
+n means the number of workers, and s means the number of unique webpages.
