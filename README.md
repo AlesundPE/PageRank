@@ -1,2 +1,2 @@
 # PageRank
-PageRank algorithm with PySpark and MPI
+Course project of DSA, WIP
